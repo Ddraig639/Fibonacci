@@ -12,4 +12,4 @@ def fibi(w, s):
 for i in range(200):
     fibi(0,1)
 for i in all:
-    turtle.circle(radius=i*2, extent=90)
+    turtle.circle(radius=i*0.2, extent=90)
